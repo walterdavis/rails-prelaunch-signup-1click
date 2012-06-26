@@ -2,7 +2,7 @@ h1. This is a fork of the excellent "Rails Prelaunch Signup":http://railsapps.gi
 
 by "DanielKehoe":https://github.com/DanielKehoe
 
-### This fork reduces the steps needed to capture an email address. 
+This fork reduces the steps needed to capture an email address. 
 
 The notable differences:
 * No more modals: Email capture is moved to the primary landing page (instead of a secondary modal)
