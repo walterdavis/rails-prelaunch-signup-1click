@@ -34,7 +34,8 @@ $('document').ready(function() {
       data: {"user[email]": email, "user[password]": password},
       success: function(data) {
         $('#request-invite').html(data);
-        loadSocial();
+        //Not using the social media share modal, so yank that out
+        //loadSocial();
       }
     });
     return false;
