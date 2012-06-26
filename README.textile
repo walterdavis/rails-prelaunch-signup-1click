@@ -22,7 +22,8 @@ Screenshots:
 h2. Credits
 
 Daniel Kehoe ("http://danielkehoe.com/":http://danielkehoe.com/) implemented the application and wrote the tutorial.
-Chad Kruse ("http://www.chadkruse.com":http://www.chadkruse.com) converted it to 1click submit
+Chad Kruse ("http://www.chadkruse.com":http://www.chadkruse.com) converted it to 1click submit.
+Hat tip to "pseudomammal":http:github.com/pseudomammal for the tricky bug fixes.
 
 h2. MIT License
 
