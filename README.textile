@@ -1,15 +1,16 @@
-h1. This is a fork of the excellent "Rails Prelaunch Signup":http://railsapps.github.com/rails-prelaunch-signup" project
+h1. This is a fork of the excellent "Rails Prelaunch Signup":http://railsapps.github.com/rails-prelaunch-signup project
 
 by "DanielKehoe":https://github.com/DanielKehoe
 
-This fork reduces the steps needed to capture an email address. The notable differences:
+###This fork reduces the steps needed to capture an email address. 
 
-*No more modals: Email capture is moved to the primary landing page
-*Design tweaks: Seems everyone wants a giant headline these days
+The notable differences:
+* No more modals: Email capture is moved to the primary landing page (instead of a secondary modal)
+* Design tweaks: Seems everyone wants a giant headline these days. Added copy placeholders.
 
 Notes:
-*I'm not going to win any coding challenge awards (n00b), so proceed with caution. You'll find a few hacks in here, but most are labeled as such.
-*If you want ongoing support, I strongly recommend you fork the "original project":http://railsapps.github.com/rails-prelaunch-signup and merge in my additions
+* I'm not going to win any coding challenge awards (n00b), so proceed with caution. You'll find a few hacks in here, but most are labeled as such.
+* If you want ongoing support, I strongly recommend you fork the "original project":http://railsapps.github.com/rails-prelaunch-signup and merge in my additions
 
 Screenshots:
 !https://github.com/chadokruse/rails-prelaunch-signup-1click/raw/master/screenshot-main.png(Landing Page)!
