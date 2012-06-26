@@ -27,11 +27,11 @@ $('document').ready(function() {
   $('#invitation_button').live('click', function() {
     var email = $('form #user_email').val();
     var password = $('form #user_password').val();
-    var dataString = 'user[email]='+ email + '&user[password]=' + password;
     $.ajax({
       type: "POST",
       url: "/users",
-      data: dataString,
+      //Allow for gmail style aliases (e.g. user+foo@example.com)
+      data: {"user[email]": email, "user[password]": password},
       success: function(data) {
         $('#request-invite').html(data);
         loadSocial();
