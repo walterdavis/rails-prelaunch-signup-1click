@@ -7,6 +7,8 @@ This fork reduces the steps needed to capture an email address.
 The notable differences:
 * No more modals: Email capture is moved to the primary landing page (instead of a secondary modal)
 * Design tweaks: Seems everyone wants a giant headline these days. Added copy placeholders.
+* Does not use social sharing buttons (might add later)
+* Uses erb instead of haml (but not all pages converted to erb)
 
 Notes:
 * I'm not going to win any coding challenge awards (n00b), so proceed with caution. You'll find a few hacks in here, but most are labeled as such.
