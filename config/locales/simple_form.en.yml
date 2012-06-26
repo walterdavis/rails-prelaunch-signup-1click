@@ -9,7 +9,8 @@ en:
       # When using html, text and mark won't be used.
       # html: '<abbr title="required">*</abbr>'
     error_notification:
-      default_message: "Please review the problems below:"
+      # TODO: Fix this hack. Only relevant if site contains just the single email capture form. This hijacks all simple_form error states. 
+      default_message: "Please enter a valid email"
     # Labels and hints examples
     # labels:
     #   defaults:
