@@ -1,4 +1,6 @@
-h1. This is a fork of the excellent "Rails Prelaunch Signup":http://railsapps.github.com/rails-prelaunch-signup"" project by "DanielKehoe":https://github.com/DanielKehoe
+h1. This is a fork of the excellent "Rails Prelaunch Signup":http://railsapps.github.com/rails-prelaunch-signup" project
+
+by "DanielKehoe":https://github.com/DanielKehoe
 
 This fork reduces the steps needed to capture an email address. The notable differences:
 
@@ -6,7 +8,7 @@ This fork reduces the steps needed to capture an email address. The notable diff
 *Design tweaks: Seems everyone wants a giant headline these days
 
 Notes:
-*I'm new to coding so you'll find a few hacks in here (labeled as such). Proceed with caution :)
+*I'm not going to win any coding challenge awards (n00b), so proceed with caution. You'll find a few hacks in here, but most are labeled as such.
 *If you want ongoing support, I strongly recommend you fork the "original project":http://railsapps.github.com/rails-prelaunch-signup and merge in my additions
 
 Screenshots:
