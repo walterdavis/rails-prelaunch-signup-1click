@@ -11,6 +11,7 @@ The notable differences:
 * Uses erb instead of haml (but not all pages converted to erb)
 
 Notes:
+* This is not yet compatible with Rails 4.0 !https://github.com/chadokruse/rails-prelaunch-signup-1click/issues/3(see open issue)!. If you just need a quick way to throw up a coming soon landing page and don't mind using a new framework, may I recommend using my !https://github.com/chadokruse/meteor-coming-soon-email-capture(Meteor project)! in the interim.
 * I'm not going to win any coding challenge awards (n00b), so proceed with caution. You'll find a few hacks in here, but most are labeled as such.
 * If you want ongoing support, I strongly recommend you fork the "original project":http://railsapps.github.com/rails-prelaunch-signup and merge in my additions
 
